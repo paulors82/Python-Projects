@@ -19,6 +19,6 @@ Portfólio de Projetos:
 
 * **Monitoramento de Rede**
 
-   *Repoditório:* https://github.com/paulors82/Python-Projects-Network-Monitor  
+   *Repositório:* https://github.com/paulors82/Python-Projects-Network-Monitor  
    
    *Artigo Publicado:* https://bit.ly/3Ljn2fT
