@@ -1,4 +1,4 @@
-# Python_Projects
+# Python Projects
 # Paulo Roberto da Silva
 <sub>*IT Infrastructure Analyst | IT Support Analyst | Junior Python Developer | Junior Data Scientist*</sub>
 
@@ -9,13 +9,14 @@ Unindo essas duas frentes, e uma linha de raciocínio lógico com foco em Análi
 
 Stay Hungry, Stay Foolish....
 
-<!--**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.-->
+<!--**Background in:** Python, Developer, Space Operations and Mathematical Optimisation.-->
 **Links:**
 * [Linkedin](https://www.linkedin.com/in/paulo-roberto-da-silva-88033b164)
 <!--* [Medium](https://www.medium.com)-->
 
-## Data Science
+## Python Projects
 Portfólio de Projetos:
 
-* **Analisando os dados do Airbnb:** https://bit.ly/3eCYaCR
-* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3amB0kx
+* **Monitoramento de Rede**
+   *Repoditório:* https://github.com/paulors82/Python-Projects-Network-Monitor  
+   *Artigo Publicado:* https://bit.ly/3Ljn2fT
